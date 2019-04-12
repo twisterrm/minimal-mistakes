@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:twisterrm@gmail.com
+       url: "mailto:twisterrm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://www.italiadomotica.it"
