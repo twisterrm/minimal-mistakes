@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nuovo Blog"
 categories: [Blog]
 tags: [blog, news]
