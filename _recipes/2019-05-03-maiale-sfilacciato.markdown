@@ -47,3 +47,5 @@ Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredient
 
 ![Spezie](/assets/images/recipes/pulled_pork/spezie.png)
 *Spezie pronte*
+
+Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore (il fatto di metterci amore è fondamentale eh?)
