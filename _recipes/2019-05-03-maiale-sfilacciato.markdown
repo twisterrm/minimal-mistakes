@@ -9,7 +9,7 @@ date: “02-05-2019 17:17:22 +0200”
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuociono ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
-Semplice, con il forno di casa! I puristi ora storceranno il naso e faranno partire una shit storm nei confronti del sottoscritto, ma vi posso assicurare che con un paio di accorgimenti si arriva ad un risultato che in alcuni casi supera anche quello cotto al bbq.
+Semplice, con il forno di casa! I puristi ora storceranno il naso e faranno partire una shitstorm nei confronti del sottoscritto, ma vi posso assicurare che con un paio di accorgimenti si arriva ad un risultato che in alcuni casi supera anche quello cotto al bbq.
 
 La mia ricetta è frutto di adattamenti, prove ed aggiustamenti.
 
