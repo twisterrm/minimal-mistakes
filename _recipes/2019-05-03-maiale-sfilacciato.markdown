@@ -54,7 +54,7 @@ Non pretendete di preparare il maiale sfilacciato all’ultimo minuto, è un pro
 
 Prendete la spalla di maiale pulita dal grasso in eccesso, se dovete pulirlo voi usate un coltello per andare sotto il grasso (attenzione a non portare via anche la carne) utilizzando un canovaccio o un pezzo di carta per afferrare il grasso mentre lo tagliate almeno non vi scivola.
 
-{% include gallery id="gallery_grasso" layout="half" caption="Spalla pulita dal grasso" %}
+{% include gallery id="gallery_grasso" layout="full" caption="Spalla pulita dal grasso" %}
 
 Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredienti (a parte il maiale...) e mescoliamoli bene, io uso un contenitore che si chiude e lo scuoto così risparmio tempo e la mistura risulta più uniforme.
 
