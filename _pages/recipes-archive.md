@@ -3,6 +3,7 @@ layout: collection
 title: "Ricette"
 collection: recipes
 permalink: /recipes/
-author_profile: false
+entries_layout: grid
+classes: wide
 ---
 Il mio personalissimo libro di cucina
