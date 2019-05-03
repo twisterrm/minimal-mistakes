@@ -308,7 +308,7 @@ defaults:
       author_profile: true
   # _recipes
   - scope:
-      path: ""
+      path: "recipes-archive"
       type: recipes
     values:
       layout: single
