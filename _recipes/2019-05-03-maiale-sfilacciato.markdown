@@ -27,6 +27,7 @@ Bando alle ciance:
 * 1 Cucchiaio di peperoncino in polvere
 * 2 Cucchiai di sale
 * 2 Cucchiai di zucchero di canna
+* 2 Cucchiai di senape in grani
 
 Un paio di premesse:
 Inutile dire che la carne deve essere di qualità, si deve usare solo la spalla al massimo con un po’ di collo, evitate tagli inutili come il filetto o come un collo lavorato. Dovendola fare al forno prendete una spalla senza osso (non volete ritrovarvi a segare un osso di maiale per farla entrare nella pentola vero?), se riuscite fate eliminare dal macellaio gran parte del grasso altrimenti dovrete farlo voi; ho incluso tra le spezie anche la paprika affumicata per ridare un po’ di sapore smokey dato che non possiamo farlo direttamente con il bbq.
@@ -41,3 +42,8 @@ Prendete la spalla di maiale pulita dal grasso in eccesso, se dovete pulirlo voi
 
 ![Spalla pulita](/assets/images/recipes/pulled_pork/spalla_nuda.jpg)
 *Spalla pulita dal grasso*
+
+Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredienti (a parte il maiale...) e mescoliamoli bene, io uso un contenitore che si chiude e lo scuoto così risparmio tempo e la mistura risulta più uniforme.
+
+![Spezie](/assets/images/recipes/pulled_pork/spezie.png)
+*Spezie pronte*
