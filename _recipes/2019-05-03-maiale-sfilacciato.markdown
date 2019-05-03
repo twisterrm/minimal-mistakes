@@ -27,7 +27,8 @@ Bando alle ciance:
 * 2 Cucchiai di sale
 * 2 Cucchiai di zucchero di canna
 
-Un paio di premesse, inutile dire che la carne deve essere di qualità, si deve usare solo la spalla al massimo con un po’ di collo ma neanche troppo evitate tagli inutili come il filetto o come un collo lavorato, dovendola fare al forno prendete una spalla senza osso (non volete ritrovarvi a segare un osso di maiale per farla entrare nella pentola vero?), se riuscite fate eliminare dal macellaio gran parte del grasso altrimenti dovrete farlo voi, ho incluso tra le spezie anche la paprika affumicata per ridare un po’ di sapore smoky dato che non possiamo farlo direttamente con il bbq.
+Un paio di premesse:
+Inutile dire che la carne deve essere di qualità, si deve usare solo la spalla al massimo con un po’ di collo, evitate tagli inutili come il filetto o come un collo lavorato. Dovendola fare al forno prendete una spalla senza osso (non volete ritrovarvi a segare un osso di maiale per farla entrare nella pentola vero?), se riuscite fate eliminare dal macellaio gran parte del grasso altrimenti dovrete farlo voi; ho incluso tra le spezie anche la paprika affumicata per ridare un po’ di sapore smokey dato che non possiamo farlo direttamente con il bbq.
 
 Il resto delle spezie è messo a mio personale gusto, ma nessuno ha mai avuto problemi con sapori troppo dominanti.
 
@@ -38,3 +39,4 @@ Non pretendete di preparare il maiale sfilacciato all’ultimo minuto, è un pro
 Prendete la spalla di maiale pulita dal grasso in eccesso, se dovete pulirlo voi usate un coltello per andare sotto il grasso (attenzione a non portare via anche la carne) utilizzando un canovaccio o un pezzo di carta per afferrare il grasso mentre lo tagliate almeno non vi scivola.
 
 ![Spalla pulita](/assets/images/recipes/pulled_pork/spalla_nuda.jpg)
+*Spalla pulita dal grasso*
