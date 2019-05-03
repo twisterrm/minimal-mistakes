@@ -11,6 +11,11 @@ gallery_grasso:
     image_path: /assets/images/recipes/pulled_pork/spalla_nuda.jpg
     alt: "Spalla pulita dal grasso"
     title: "Spalla pulita dal grasso"
+gallery_spezie_pronte:
+  - url: /assets/images/recipes/pulled_pork/spezie.png
+    image_path: /assets/images/recipes/pulled_pork/spezie.png
+    alt: "Spezie pronte"
+    title: "Spezie pronte"
 gallery_spezie:
   - url: /assets/images/recipes/pulled_pork/spezie-1.png
     image_path: /assets/images/recipes/pulled_pork/spezie-1.png
@@ -58,8 +63,7 @@ Prendete la spalla di maiale pulita dal grasso in eccesso, se dovete pulirlo voi
 
 Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredienti (a parte il maiale...) e mescoliamoli bene, io uso un contenitore che si chiude e lo scuoto così risparmio tempo e la mistura risulta più uniforme.
 
-![Spezie](/assets/images/recipes/pulled_pork/spezie.png)
-*Spezie pronte*
+{% include gallery id="gallery_spezie_pronte" layout="full" caption="Spezie Pronte" %}
 
 Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore cercando di mandare ovunque la mistura di spezie, anche dentro le pieghe della carne (il fatto di metterci amore è fondamentale eh?), alla fine il risultato sarà simile a questo.
 
