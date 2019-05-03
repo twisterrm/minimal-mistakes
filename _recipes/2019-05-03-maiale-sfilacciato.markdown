@@ -59,4 +59,4 @@ Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredient
 
 Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore cercando di mandare ovunque la mistura di spezie, anche dentro le pieghe della carne (il fatto di metterci amore è fondamentale eh?), alla fine il risultato sarà simile a questo.
 
-{% include gallery id="gallery_spezie" layout="half" caption="Dopo l'amorevole massaggio"}
+{% include gallery id="gallery_spezie" layout="half" caption="Dopo l'amorevole massaggio" %}
