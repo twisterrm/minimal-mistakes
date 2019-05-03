@@ -6,6 +6,15 @@ header:
 categories: [Ricette]
 tags: [ricetta, pulled pork, maiale, maiale sfilacciato, oven, slow cook, addiction]
 date: “02-05-2019 17:17:22 +0200”
+gallery_spezie:
+  - url: /assets/images/recipes/pulled_pork/spezie-1.png
+    image_path: /assets/images/recipes/pulled_pork/spezie-1.png
+    alt: "Spezie_1"
+    title: "Dopo il massaggio"
+  - url: /assets/images/recipes/pulled_pork/spezie-2.png
+    image_path: /assets/images/recipes/pulled_pork/spezie-2.png
+    alt: "Spezie_2"
+    title: "Dopo il massaggio"
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -48,4 +57,6 @@ Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredient
 ![Spezie](/assets/images/recipes/pulled_pork/spezie.png)
 *Spezie pronte*
 
-Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore (il fatto di metterci amore è fondamentale eh?)
+Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore cercando di mandare ovunque la mistura di spezie, anche dentro le pieghe della carne (il fatto di metterci amore è fondamentale eh?), alla fine il risultato sarà simile a questo.
+
+{% include gallery id="gallery_spezie" layout="half" caption="Dopo l'amorevole massaggio"}
