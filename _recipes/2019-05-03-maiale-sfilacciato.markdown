@@ -2,7 +2,7 @@
 title: "Maiale Sfilacciato"
 comments: true
 header:
-  image: /assets/images/
+  image: /assets/images/recipes/pulled_pork/header.png
 categories: [Ricette]
 tags: [ricetta, pulled pork, maiale, maiale sfilacciato, oven, slow cook, addiction]
 date: “02-05-2019 17:17:22 +0200”
