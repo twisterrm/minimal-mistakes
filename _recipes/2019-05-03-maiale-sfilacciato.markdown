@@ -30,6 +30,16 @@ gallery_pellicola:
     image_path: /assets/images/recipes/pulled_pork/laura_palmer.png
     alt: "Laura Palmer"
     title: "Vi presento Laura Palmer"
+gallery_pentola:
+  - url: /assets/images/recipes/pulled_pork/ghisa1.png
+    image_path: /assets/images/recipes/pulled_pork/ghisa1.png
+    alt: "Ghisa_1"
+    title: "Pentola di Ghisa"
+  - url: /assets/images/recipes/pulled_pork/ghisa2.png
+    image_path: /assets/images/recipes/pulled_pork/ghisa22.png
+    alt: "Ghisa_2"
+    title: "Pentola di Ghisa"
+
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -80,3 +90,13 @@ Prendete ora della pellicola alimentare (quella da cucina) e impacchettate per b
 
 È ora il momento di mettere il nostro maiale impacchettato in frigo per 20/24 ore.
 
+Svegliatevi la mattina dopo, preparatevi il caffè e sollevate una questione, cosa uso ora per cuocerlo? 
+Se siamo fortunati ed abbiamo un barbecue di quelli con il coperchio buttiamolo li dentro con una cottura indiretta per circa 6 ore; ma noi viviamo in città non abbiamo un giardino e se accendiamo un barbecue sul terrazzino chiamano i pompieri, quindi come detto nella premessa utilizzeremo il forno.
+
+Per cuocere la nostra spalla al forno ci serve un qualcosa che possa tenerla al chiuso senza farla attaccare e creando pure un bel sughetto.
+
+Vi presento dunque la mia arma segreta
+
+{% include gallery id="gallery_pentola" layout="half" caption="Pentola di ghisa" %}
+
+Una pentola di ghisa, perfetta per lo slow cook, pesa una tonnellata ma il risultato è garantito, la mia è abbastanza grande da contenere una spalla di maiale di 3kg, l'ho acquistata da [ikea](https://www.ikea.com/it/it/catalog/products/50232842/). 
