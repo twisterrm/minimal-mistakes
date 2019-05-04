@@ -36,7 +36,7 @@ gallery_pentola:
     alt: "Ghisa_1"
     title: "Pentola di Ghisa"
   - url: /assets/images/recipes/pulled_pork/ghisa2.png
-    image_path: /assets/images/recipes/pulled_pork/ghisa22.png
+    image_path: /assets/images/recipes/pulled_pork/ghisa2.png
     alt: "Ghisa_2"
     title: "Pentola di Ghisa"
 
