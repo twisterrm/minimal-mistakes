@@ -25,6 +25,11 @@ gallery_spezie:
     image_path: /assets/images/recipes/pulled_pork/spezie-2.png
     alt: "Spezie_2"
     title: "Dopo il massaggio"
+gallery_pellicola:
+  - url: /assets/images/recipes/pulled_pork/laura_palmer.png
+    image_path: /assets/images/recipes/pulled_pork/laura_palmer.png
+    alt: "Laura Palmer"
+    title: "Vi presento Laura Palmer"
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -68,3 +73,10 @@ Prepariamo le spezie semplicemente unendo in un contenitore tutti gli ingredient
 Versiamo pian piano le spezie sulla spalla di maiale e massaggiamola con amore cercando di mandare ovunque la mistura di spezie, anche dentro le pieghe della carne (il fatto di metterci amore è fondamentale eh?), alla fine il risultato sarà simile a questo.
 
 {% include gallery id="gallery_spezie" layout="half" caption="Dopo l'amorevole massaggio" %}
+
+Prendete ora della pellicola alimentare (quella da cucina) e impacchettate per bene la vostra spalla di maiale, senza lasciare nessun pezzo scoperto
+
+{% include gallery id="gallery_pellicola" layout="half" caption="Vi presento Laura Palmer" %}
+
+È ora il momento di mettere il nostro maiale impacchettato in frigo per 20/24 ore.
+
