@@ -39,7 +39,29 @@ gallery_pentola:
     image_path: /assets/images/recipes/pulled_pork/ghisa2.png
     alt: "Ghisa_2"
     title: "Pentola di Ghisa"
-
+gallery_spellicolata:
+  - url: /assets/images/recipes/pulled_pork/spalla_spellicolata.png
+    image_path: /assets/images/recipes/pulled_pork/spalla_spellicolata.png
+    alt: "Spellicolata"
+    title: "Spellicolata"
+gallery_forno:
+  - url: /assets/images/recipes/pulled_pork/forno1.png
+    image_path: /assets/images/recipes/pulled_pork/forno1.png
+    alt: "Forno_1"
+    title: "Pronta per il forno"
+  - url: /assets/images/recipes/pulled_pork/forno2.png
+    image_path: /assets/images/recipes/pulled_pork/forno2.png
+    alt: "Forno_2"
+    title: "Infornata"
+gallery_sfornata:
+  - url: /assets/images/recipes/pulled_pork/sfornata1.png
+    image_path: /assets/images/recipes/pulled_pork/sfornata1.png
+    alt: "Sfornata_1"
+    title: "Trasferita nella teglia"
+  - url: /assets/images/recipes/pulled_pork/sfornata2.png
+    image_path: /assets/images/recipes/pulled_pork/sfornata2.png
+    alt: "Sfornata_2"
+    title: "Amorevolmente coperta"
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -100,3 +122,30 @@ Vi presento dunque la mia arma segreta
 {% include gallery id="gallery_pentola" layout="half" caption="Pentola di ghisa" %}
 
 Una pentola di ghisa, perfetta per lo slow cook, pesa una tonnellata ma il risultato è garantito, la mia è abbastanza grande da contenere una spalla di maiale di 3kg, l'ho acquistata da [ikea](https://www.ikea.com/it/it/catalog/products/50232842/). 
+
+Tiriamo la carne fuori almeno 1 ora prima e spellicoliamola per portarla a temperatura, dovrebbe risultare un po' bagnata e con un forte odore di spezie, tranquilli quell'odore sparirà dal vostro frigo in un paio di giorni...
+
+{% include gallery id="gallery_spellicolata" layout="half" caption="Spellicolata" %}
+
+Accendiamo il forno a 150° *SENZA* ventilazione, mettiamo la spalla nella pentola e inforniamo per almeno 6 (SEI) ore.
+
+{% include gallery id="gallery_forno" layout="half" caption="Spellicolata" %}
+
+Se proprio siete ultracuriosi dopo 3 ore controllate semplicemente se si è formato un po' di sughetto.
+
+E adesso cosa faccio per sei ore? 
+
+Nel frattempo dovreste/potreste preparare i bun (i panini dolci da utilizzare per infilarci dentro il pulled pork dopo), la salsa barbecue e la coleslaw (l'insalata di cavolo sempre per farcire il panino), se non sapete come fare tutte queste cose a breve aggiungerò le ricette.
+
+Ma voi siete pigri e avete comprato tutto confezionato quindi vi siete spiaggiati 6 ore sul divano a guardare serie tv e film vero?
+
+Fast forward a 6 ore, pronti a vedere cosa è successo in forno.
+
+Preparate una teglia, quelle di alluminio andranno benissimo, e della carta di alluminio.
+Tiriamo fuori la pentola dal forno e apriamola, dovremmo essere invasi da un odore molto prossimo a quello che immaginate sentirete nei prati del Valhalla, e al dipanarsi del fumo dovreste vedere la vostra spalla di maiale bella sana e compatta immersa in una discreta quantità di sughetto.
+
+Ora con la delicatezza che usereste per prendere un cucciolo di gatto impaurito sul ciglio della strada in una giornata piovosa adagiate la spalla nella teglia facendo attenzione a non romperla, sarà piuttosto fragile, come un adolescente che ha appena scoperto instagram e gli aforismi di fabio volo.
+
+Versate tutto il sughetto nella teglia e copritela amorevolmente con la carta di alluminio, lasciatela riposare almeno 30 minuti.
+
+{% include gallery id="gallery_sfornata" layout="half" caption="Sfornata" %}
