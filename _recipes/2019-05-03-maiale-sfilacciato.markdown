@@ -75,6 +75,12 @@ gallery_sfilacciata:
     image_path: /assets/images/recipes/pulled_pork/sfilacciato3.png
     alt: "Sfilacciato_3"
     title: "Sfilacciato"
+gallery_panino:
+  - url: /assets/images/recipes/pulled_pork/panino.png
+    image_path: /assets/images/recipes/pulled_pork/panino.png
+    alt: "Panino"
+    title: "Panino"
+
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -170,3 +176,10 @@ Mentre la sfilacciate e godete del risultato ottenuto, la carne raccoglierà tut
 
 {% include gallery id="gallery_sfilacciata" layout="half" caption="Notare il grembiule" %}
 
+Cercate ora di resistere alla tentazione di prendere una manciata e portarla alla bocca (scherzo, fatelo, DOVETE farlo!), se avete fatto la salsa barbecue è ora di versarla sopra al tutto e dare una mischiata, altrimenti tagliate a metà un panino (meglio se un bun dolce), metteteci dentro la carne sfilacciata e la coleslaw (insalata di cavoli).
+
+Non vi resta che mangiarlo e pensare che questi 2 giorni persi dietro ad un pezzo di maiale siano stati ottimamente ripagati.
+
+Daje!
+
+{% include gallery id="gallery_panino" caption="Daje" %}
