@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Italia Domotica"
-    url: https://www.italiadomotica.it
+  #- title: "Italia Domotica"
+  #  url: https://www.italiadomotica.it
   - title: "Ricette"
     url: /recipes/
   # - title: "Sample Posts"
