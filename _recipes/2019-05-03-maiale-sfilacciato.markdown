@@ -62,6 +62,19 @@ gallery_sfornata:
     image_path: /assets/images/recipes/pulled_pork/sfornata2.png
     alt: "Sfornata_2"
     title: "Amorevolmente coperta"
+gallery_sfilacciata:
+  - url: /assets/images/recipes/pulled_pork/sfilacciata1.gif
+    image_path: /assets/images/recipes/pulled_pork/sfilacciata1.gif
+    alt: "Sfilacciata_1"
+    title: "Sfilacciata"
+  - url: /assets/images/recipes/pulled_pork/sfilacciata2.gif
+    image_path: /assets/images/recipes/pulled_pork/sfilacciata2.gif
+    alt: "Sfilacciata_2"
+    title: "Sfilacciata"
+  - url: /assets/images/recipes/pulled_pork/sfilacciato3.png
+    image_path: /assets/images/recipes/pulled_pork/sfilacciato3.png
+    alt: "Sfilacciato_3"
+    title: "Sfilacciato"
 ---
 Appena si parla di maiale sfilacciato è facile immaginare subito un grosso barbecue chiuso con cottura indiretta o meglio un affumicatore che cuocia ore ed ore un pezzo di maiale che viene poi sfilacciato e mangiato, ma come fare se non abbiamo lo spazio per un barbecue ne tantomeno per un affumicatore ma non vogliamo rinunciare al gusto di un succulento maiale ridotto a sfilacci?
 
@@ -149,3 +162,11 @@ Ora con la delicatezza che usereste per prendere un cucciolo di gatto impaurito 
 Versate tutto il sughetto nella teglia e copritela amorevolmente con la carta di alluminio, lasciatela riposare almeno 30 minuti.
 
 {% include gallery id="gallery_sfornata" layout="half" caption="Sfornata" %}
+
+È ora di vedere se i nostri sforzi sono stati ripagati.
+
+Togliete la carta di alluminio da sopra la teglia, munitevi di 2 forchette ed iniziate a separare la carne, sfilacciandola con un movimento contrapposto delle posate.
+Mentre la sfilacciate e godete del risultato ottenuto, la carne raccoglierà tutto il sughetto impregnandosi per bene.
+
+{% include gallery id="gallery_sfilacciata" layout="half" caption="Notare il grembiule" %}
+
