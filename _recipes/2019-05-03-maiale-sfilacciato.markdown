@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/recipes/pulled_pork/header.png
 categories: [Ricette]
 tags: [ricetta, pulled pork, maiale, maiale sfilacciato, oven, slow cook, addiction]
-date: “02-05-2019 17:17:22 +0200”
+date: “09-05-2019 11:03:22 +0200”
 gallery_grasso:
   - url: /assets/images/recipes/pulled_pork/spalla_nuda.jpg
     image_path: /assets/images/recipes/pulled_pork/spalla_nuda.jpg
