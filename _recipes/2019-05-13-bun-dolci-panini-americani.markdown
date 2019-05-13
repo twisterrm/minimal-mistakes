@@ -13,7 +13,7 @@ categories: [Ricette]
 tags: [ricetta, panini, bun, americani, forno, pulled pork, addiction]
 date: "2019-05-13 09:00:08 +0200"
 ---
-Grazie alla richiesta di Ivan vi scrivo con onore la ricetta dei *bun*
+Grazie alla richiesta di Ivan vi scrivo con onore la ricetta dei *bun*.
 
 Cosa sono?
 
@@ -50,10 +50,10 @@ Ungete una teglia di olio, copritela e lasciateli gonfiare ancora per un'ora.
 
 Forno a 190°.
 
-Sbattete l'altro uovo (se lo avete messo nell'impato perchè avete letto male buttate tutto e copmprateli al supermercato) con un po di acqua e con l'aiuto di un pennello da cucina spalmatelo sui panini, dopodichè metteteci sopra i semi di sesamo.
+Sbattete l'altro uovo (se lo avete messo nell'impato perchè avete letto male buttate tutto e comprateli al supermercato) con un po di acqua e con l'aiuto di un pennello da cucina spalmatelo sui panini, dopodichè metteteci sopra i semi di sesamo.
 
 Infornate per circa 15 minuti finchè non sono leggermete dorati in superficie.
 
 **Suggerimento**
 
-Se li state preparando insieme alla ricetta del [https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/] (maiale sfilacciato) inziate ad impastare il tutto dopo un paio di ore e mezzo che avete infornato la spalla in modo tale che durante i 30 minuti di riposo del maiale nel contenitore di alluminio potrete alzare il forno e cuocere i panini
+Se li state preparando insieme alla ricetta del [https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/](maiale sfilacciato) inziate ad impastare il tutto dopo un paio di ore e mezzo che avete infornato la spalla in modo tale che durante i 30 minuti di riposo del maiale nel contenitore di alluminio potrete alzare il forno e cuocere i panini
