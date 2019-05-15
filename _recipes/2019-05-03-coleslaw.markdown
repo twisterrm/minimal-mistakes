@@ -1,0 +1,54 @@
+---
+title: "Coleslaw"
+comments: true
+header:
+  image: /assets/images/recipes/coleslaw/coleslaw.png
+  teaser: /assets/images/recipes/coleslaw/coleslaw.png
+categories: [Ricette]
+tags: [ricetta, coleslaw, barbecue, pulled pork, addiction]
+date: "2019-05-03 18:24:26 +0200"
+---
+
+La coleslaw o meglio insalata di cavolo, ultimo tassello per la ricetta come del [maiale sfilacciato](https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/), il companatico perfetto per il panino ripieno.
+
+## Ingredienti
+
+* Cavolo cappuccio bianco
+* Verza rossa
+* Carote tagliate alla julienne
+* Aceto di vino
+* Olio
+* 1/2 Limone
+* Sale
+* Pepe
+
+Altra ricetta facile facile:
+
+Tagliate il cavolo e la verza rossa molto finemente.
+Fate una vinaigrette con l'aceto, l'olio e il limone (mischiateli cioè insieme).
+Mettete tutti gli ingredienti rimasti in un contenitore, mischiateli, aggiungete la vinaigrette, aggiustate di sale e pepe.
+
+C'è chi aggiunge della maionese all'interno dell'insalata, io amo lasciarla così in modo che sia più croccante nel panino.
+
+Daje!
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://yaub.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
