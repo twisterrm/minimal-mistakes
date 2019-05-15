@@ -29,8 +29,6 @@ Mettete tutti gli ingredienti in un pentolino o una casseruola, portate ad eboll
 
 Daje!
 
-{% include gallery id="gallery_panino" caption="Daje" %}
-
 <div id="disqus_thread"></div>
 <script>
 

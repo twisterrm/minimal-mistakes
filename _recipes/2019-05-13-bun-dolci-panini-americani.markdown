@@ -60,8 +60,6 @@ Daje!
 
 Se li state preparando insieme alla ricetta del [maiale sfilacciato](https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/) inziate ad impastare il tutto dopo un paio di ore e mezzo che avete infornato la spalla in modo tale che durante i 30 minuti di riposo del maiale nel contenitore di alluminio potrete alzare il forno e cuocere i panini.
 
-{% include gallery id="gallery_panino" caption="Daje" %}
-
 <div id="disqus_thread"></div>
 <script>
 
