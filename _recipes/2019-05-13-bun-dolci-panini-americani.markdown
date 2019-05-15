@@ -54,6 +54,31 @@ Sbattete l'altro uovo (se lo avete messo nell'impato perchè avete letto male bu
 
 Infornate per circa 15 minuti finchè non sono leggermete dorati in superficie.
 
+Daje!
+
 **Suggerimento**
 
-Se li state preparando insieme alla ricetta del [maiale sfilacciato](https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/) inziate ad impastare il tutto dopo un paio di ore e mezzo che avete infornato la spalla in modo tale che durante i 30 minuti di riposo del maiale nel contenitore di alluminio potrete alzare il forno e cuocere i panini
+Se li state preparando insieme alla ricetta del [maiale sfilacciato](https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/) inziate ad impastare il tutto dopo un paio di ore e mezzo che avete infornato la spalla in modo tale che durante i 30 minuti di riposo del maiale nel contenitore di alluminio potrete alzare il forno e cuocere i panini.
+
+{% include gallery id="gallery_panino" caption="Daje" %}
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://yaub.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

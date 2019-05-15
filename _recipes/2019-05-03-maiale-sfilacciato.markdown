@@ -132,7 +132,7 @@ Prendete ora della pellicola alimentare (quella da cucina) e impacchettate per b
 
 È ora il momento di mettere il nostro maiale impacchettato in frigo per 20/24 ore.
 
-Svegliatevi la mattina dopo, preparatevi il caffè e sollevate una questione, cosa uso ora per cuocerlo? 
+Svegliatevi la mattina dopo, preparatevi il caffè e sollevate una questione, cosa uso ora per cuocerlo?
 Se siamo fortunati ed abbiamo un barbecue di quelli con il coperchio buttiamolo li dentro con una cottura indiretta per circa 6 ore; ma noi viviamo in città non abbiamo un giardino e se accendiamo un barbecue sul terrazzino chiamano i pompieri, quindi come detto nella premessa utilizzeremo il forno.
 
 Per cuocere la nostra spalla al forno ci serve un qualcosa che possa tenerla al chiuso senza farla attaccare e creando pure un bel sughetto.
@@ -141,7 +141,7 @@ Vi presento dunque la mia arma segreta
 
 {% include gallery id="gallery_pentola" layout="half" caption="Pentola di ghisa" %}
 
-Una pentola di ghisa, perfetta per lo slow cook, pesa una tonnellata ma il risultato è garantito, la mia è abbastanza grande da contenere una spalla di maiale di 3kg, l'ho acquistata da [ikea](https://www.ikea.com/it/it/catalog/products/50232842/). 
+Una pentola di ghisa, perfetta per lo slow cook, pesa una tonnellata ma il risultato è garantito, la mia è abbastanza grande da contenere una spalla di maiale di 3kg, l'ho acquistata da [ikea](https://www.ikea.com/it/it/catalog/products/50232842/).
 
 Tiriamo la carne fuori almeno 1 ora prima e spellicoliamola per portarla a temperatura, dovrebbe risultare un po' bagnata e con un forte odore di spezie, tranquilli quell'odore sparirà dal vostro frigo in un paio di giorni...
 
@@ -153,7 +153,7 @@ Accendiamo il forno a 150° *SENZA* ventilazione, mettiamo la spalla nella pento
 
 Se proprio siete ultracuriosi dopo 3 ore controllate semplicemente se si è formato un po' di sughetto.
 
-E adesso cosa faccio per sei ore? 
+E adesso cosa faccio per sei ore?
 
 Nel frattempo dovreste/potreste preparare i bun (i panini dolci da utilizzare per infilarci dentro il pulled pork dopo), la salsa barbecue e la coleslaw (l'insalata di cavolo sempre per farcire il panino), se non sapete come fare tutte queste cose a breve aggiungerò le ricette.
 
@@ -205,4 +205,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            

@@ -1,0 +1,53 @@
+---
+title: "Salsa BBQ"
+comments: true
+header:
+  image: /assets/images/recipes/bbq/bbq_sauce.jpg
+  teaser: /assets/images/recipes/bbq/bbq_sauce.jpg
+categories: [Ricette]
+tags: [ricetta, bbq, salsa barbeque, barbecue, sobollire, pulled pork, addiction]
+date: "2019-05-15 10:42:26 +0200"
+---
+
+Inserisco qui la ricetta per la mia personalissima salsa bbq, capisco che è più semplice acquistarla già fatta, ma il sapore non sarà mai soddisfacente e in vendita le salse sono tutte molto molto dense, e per una ricetta come il [maiale sfilacciato](https://yaub.it/recipes/2019-05-03-maiale-sfilacciato/) avere una salsa un pochino più "lenta" aiuta moltissimo.
+
+## Ingredienti
+
+* 250 ml di aceto di mele
+* 250 gr di ketchup
+* 1/2 cucchiaino di aglio in polvere
+* 1/2 cucchiaino di pepe nero macinato al momento
+* 1 cucchiaino di peperoncino (io uso quello di cajenna)
+* 1 cucchiaino di paprika dolce
+* 1/2 cucchiaino di paprika affumicata
+* 150 gr di senape gialla (meglio se americana)
+* 1/2 cucchiaino di sale
+
+La ricetta è di per se terribilmente facile:
+
+Mettete tutti gli ingredienti in un pentolino o una casseruola, portate ad ebollizione mentre girate per non far attaccare il tutto, abbassate la fiamma e lasciate sobollire sempre girando per 7/10 minuti.
+
+Daje!
+
+{% include gallery id="gallery_panino" caption="Daje" %}
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://yaub.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
