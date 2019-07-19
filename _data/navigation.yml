@@ -4,6 +4,10 @@ main:
   #  url: https://www.italiadomotica.it
   - title: "Ricette"
     url: /recipes/
+  - title: "Blog"
+    url: /archive/
+  #- title: "Viaggi"
+  #  url: /trip/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
