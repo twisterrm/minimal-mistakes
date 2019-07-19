@@ -25,7 +25,7 @@ feature_row:
     url: "/archive/"
     btn_label: "Blog"
     btn_class: "btn--primary"
-  - image_path: /assets/images/trip/trip_placeholder
+  - image_path: /assets/images/trip/trip_placeholder.png
     title: "Viaggi"
     excerpt: "Prossimamente."
 ---
