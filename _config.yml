@@ -314,3 +314,19 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _blog
+  - scope:
+      path: "_blog"
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _trip
+  - scope:
+      path: "_trip"
+      type: trip
+    values:
+      layout: single
+      author_profile: true
+      share: true
