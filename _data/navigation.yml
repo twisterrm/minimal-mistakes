@@ -5,7 +5,7 @@ main:
   - title: "Ricette"
     url: /recipes/
   - title: "Blog"
-    url: /archive/
+    url: /blog/
   #- title: "Viaggi"
   #  url: /trip/
   # - title: "Sample Posts"
