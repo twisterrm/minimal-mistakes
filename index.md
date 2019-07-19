@@ -11,7 +11,7 @@ excerpt: "Y.A.U.B. aka Yet Another Useless Blog"
 intro: 
   - excerpt: 'Un blog inutile che non sarà letto da nessuno e comunque chi lo farà lo cancellerà dalla mente poco dopo'
 feature_row:
-  - image_path: /assets/images/recipes/pulled_pork/panino.png
+  - image_path: /assets/images/recipes/recipes_thumb.png
     alt: "Ricette"
     title: "Ricette"
     excerpt: "Una raccolta delle mie ricette, disgustosamente buone, almeno spero."
