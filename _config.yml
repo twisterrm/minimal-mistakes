@@ -284,6 +284,12 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
+  trip:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -317,7 +323,7 @@ defaults:
   # _blog
   - scope:
       path: "_blog"
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
@@ -325,7 +331,7 @@ defaults:
   # _trip
   - scope:
       path: "_trip"
-      type: posts
+      type: trip
     values:
       layout: single
       author_profile: true
