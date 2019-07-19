@@ -317,7 +317,7 @@ defaults:
   # _blog
   - scope:
       path: "_blog"
-      type: blog
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -325,7 +325,7 @@ defaults:
   # _trip
   - scope:
       path: "_trip"
-      type: trip
+      type: posts
     values:
       layout: single
       author_profile: true
