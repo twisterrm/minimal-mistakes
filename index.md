@@ -22,7 +22,7 @@ feature_row:
     alt: "Blog"
     title: "Blog"
     excerpt: "Raccolta di deliri."
-    url: "/archive/"
+    url: "/blog/"
     btn_label: "Blog"
     btn_class: "btn--primary"
   - image_path: /assets/images/trip/trip_placeholder.png
