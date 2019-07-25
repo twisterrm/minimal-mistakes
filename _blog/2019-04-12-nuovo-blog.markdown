@@ -2,6 +2,9 @@
 title: "Nuovo Blog"
 categories: [Blog]
 tags: [blog, news]
+comments: true
+header:
+  teaser: /assets/images/blog/new_blog_teaser.png
 date: "2019-04-12 12:24:22 +0200"
 ---
 Ho deciso nuovamente di cambiare il blog.
