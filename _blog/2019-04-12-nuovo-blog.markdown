@@ -15,4 +15,4 @@ La mia scelta è dunque ricaduta su [Jekyll](https://jekyllrb.com/) che è uno d
 
 Mi permette di avere un blog esteticamente bello, leggerissimo e molto responsivo, dandomi la possibilità di utilizzare un server che esponga solo contenuti in html senza particolari librerie, software, database o altro.
 
-Riesco anche a postare contenuti tramite iPad in mobilità grazie ad un workflow che più avanti vi mostrerò, se mai nessuno leggerà questo blog ;)
+Il sito è rimasto morto per anni, spero a breve di poter scrivere qualcosa di utile :)
