@@ -28,6 +28,9 @@ feature_row:
   - image_path: /assets/images/trip/trip_placeholder.png
     title: "Viaggi"
     excerpt: "Prossimamente."
+  - image_path: /assets/images/tech/tech_placeholder.png
+    title: "Tecnologia"
+    excerpt: "Una raccolta di appunti ed how-to informatici (prossimamente)"
 ---
 
 {% include feature_row id="intro" type="center" %}
